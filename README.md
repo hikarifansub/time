@@ -1,3 +1,3 @@
-# Base Project Skeleton
+# Time Project 🕑
 
-This repository serves as a template for new Hikari Fansub projects. It defines a basic structure to accommodate each project's episodes, movies, and terminology.
+This repository is intended for the Mirai Sentai Timeranger series subtitles.
